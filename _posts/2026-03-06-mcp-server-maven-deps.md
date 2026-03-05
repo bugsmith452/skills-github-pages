@@ -3,6 +3,7 @@ layout: default
 title: "Stop Letting Your Coding Agent Hallucinate Private APIs — Build an MCP Server That Feeds It Real Signatures"
 date: 2026-03-06
 categories: [ai, mcp, java, coding-agents]
+permalink: /2026/03/06/mcp-server-maven-deps.html
 ---
 
 # Stop Letting Your Coding Agent Hallucinate Private APIs — Build an MCP Server That Feeds It Real Signatures
