@@ -34,4 +34,4 @@ I enjoy owning components end‑to‑end: understanding requirements, designing 
 
 Check out my [blog](/blog) for technical articles and insights.
 
-**Featured:** [Stop Letting Your Coding Agent Hallucinate Private APIs — Build an MCP Server That Feeds It Real Signatures](/2026/03/06/mcp-server-maven-deps.html)
+**Featured:** [Stop Letting Your Coding Agent Hallucinate Private APIs — Build an MCP Server That Feeds It Real Signatures]({% post_url 2026-03-06-mcp-server-maven-deps %})
