@@ -13,12 +13,12 @@ Technical articles on AI/LLM integration, distributed systems, and developer too
 
 ### March
 
-**[Stop Letting Your Coding Agent Hallucinate Private APIs — Build an MCP Server That Feeds It Real Signatures]({% post_url 2026-03-06-mcp-server-maven-deps %})**  
+**[Stop Letting Your Coding Agent Hallucinate Private APIs — Build an MCP Server That Feeds It Real Signatures](/blog/2026/03/06/mcp-server-maven-deps.html)**  
 *March 6, 2026*
 
 AI coding agents are remarkably capable on public codebases. But the moment you point them at your team's internal libraries — the proprietary SDKs, the custom frameworks — they start guessing. And they guess wrong. This article explores how to build an MCP server that feeds agents real bytecode signatures from private Maven dependencies.
 
-[Read more →]({% post_url 2026-03-06-mcp-server-maven-deps %})
+[Read more →](/blog/2026/03/06/mcp-server-maven-deps.html)
 
 ---
 
