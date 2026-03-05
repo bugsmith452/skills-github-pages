@@ -1,0 +1,15 @@
+title: Balasubramanian S
+description: AI/LLM Developer Tools & Distributed Data Platforms
+theme: jekyll-theme-minimal
+author: Balasubramanian S
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog
+
+# GitHub metadata
+github:
+  repository_url: https://github.com/bugsmith452/skills-github-pages

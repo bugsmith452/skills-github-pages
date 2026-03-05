@@ -1,16 +1,41 @@
-# GitHub Pages
+# Balasubramanian S - Profile & Blog
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+Personal website hosted on GitHub Pages featuring technical articles on AI/LLM integration, distributed systems, and developer tooling.
 
-Hey bugsmith452!
+## About
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+This site showcases my work in:
+- AI/LLM-powered developer tools and agentic workflows
+- Distributed data platforms and data engineering
+- Extensible frameworks and SDK development
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## Site Structure
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/bugsmith452/skills-github-pages/issues/1)
+- **Home** (`index.md`) - Professional profile and recent work
+- **Blog** (`blog.md`) - Technical articles and insights
+- **Posts** (`_posts/`) - Blog post content in Jekyll format
+
+## Local Development
+
+To run this site locally:
+
+```bash
+# Install Jekyll (if not already installed)
+gem install bundler jekyll
+
+# Serve the site
+jekyll serve
+
+# Visit http://localhost:4000
+```
+
+## Technologies
+
+- Jekyll static site generator
+- GitHub Pages hosting
+- Minimal theme
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+© 2026 Balasubramanian S
 
